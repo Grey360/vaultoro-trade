@@ -1,0 +1,22 @@
+{
+	"orders": [
+		{
+			"id": "000001",
+			"type": "BID",
+            "price": 0.006268020559107434,
+            "currency": "BTC",
+            "quantity": 100,
+            "unitOfMeasurement": "g",
+            "subject": "gold"
+		},
+        {
+			"id": "000002",
+			"type": "BID",
+            "price": 34,
+            "currency": "EUR",
+            "quantity": 300,
+            "unitOfMeasurement": "g",
+            "subject": "gold"
+		}
+	]
+}
